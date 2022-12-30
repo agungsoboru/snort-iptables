@@ -18,3 +18,12 @@ jika hanya mencoba anda tidk harus melakukan instalasi snort cukup masukan kode 
 lalu jalankan program
 
 lalu tambahkan folder lagi alamat ip contoh 202.245.2.100 lalu jalankan lagi program
+
+# note install snort
+https://lms.onnocenter.or.id/wiki/index.php/SNORT:_Install_SNORT_saja_Ubuntu_20.04
+
+kalau gasalah command ini   snort -c /etc/snort/snort.conf -l /var/log/snort/ -K ascii -D 
+
+untuk menjalankan snort di command itu tambahkan -i ens160 misalnya nama interface 
+
+coba cari saya lupa 
