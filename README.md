@@ -71,9 +71,7 @@ Agar log /var/log/snort bisa di baca oleh manusia, kita bisa menjalankan snort d
 snort -c /etc/snort/snort.conf -l /var/log/snort/ -K ascii -D
 
 
-
-
-
+# referensi
 
 https://lms.onnocenter.or.id/wiki/index.php/SNORT:_Install_SNORT_saja_Ubuntu_20.04
 
